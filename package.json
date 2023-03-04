@@ -1,0 +1,16 @@
+{
+  "name": "ccg_card_generator",
+  "version": "0.0.1",
+  "description": "Nodejs package for generating cards from HTML",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ccg",
+    "nodejs",
+    "puppeteer"
+  ],
+  "author": "Casperovskii",
+  "license": "ISC"
+}
